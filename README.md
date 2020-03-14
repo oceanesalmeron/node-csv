@@ -19,5 +19,5 @@ Run `npm install` in your terminal
 
 Run in your terminal:
 ```
-node index.html
+node index.js
 ```
